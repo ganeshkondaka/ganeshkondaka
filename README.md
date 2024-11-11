@@ -65,10 +65,17 @@
 
 ## 🌐 Socials:
 <div align="left">
+  <a https="https://instagram.com/ganesh_.w/"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="116" height="55" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="116" height="55" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="116" height="55" alt="gmail logo"  />
+   </a>
+  
+  <a href="https://x.com/ganesh_kondaka/">      
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="116" height="55" alt="x logo"  />
+   </a>
+   
+  <a href="https://linkedin.com/in/kondaka-ganesh-b402bb252">      
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="116" height="55" alt="linkedin logo"  />
+   </a>
 </div>
 
 ###
