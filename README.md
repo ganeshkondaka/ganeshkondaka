@@ -2,7 +2,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=ganeshkondaka&color=green)
+![](https://komarev.com/ghpvc/?username=ganeshkondaka&color=blue)
 
 ###
 
