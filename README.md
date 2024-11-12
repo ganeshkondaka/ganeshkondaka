@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋! My name is Ganesh . and I'm an Aspiring web developer. 🚀</h1>
+<h1 align="left">Hi 👋! My name is **Ganesh** .h1>
+
+###
+
+![](https://komarev.com/ghpvc/?username=ganeshkondaka&color=green)
 
 ###
 
@@ -61,27 +65,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-###
-
-## 🌐 Socials:
-<div align="left">
-  <a https="https://instagram.com/ganesh_.w/"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="116" height="55" alt="instagram logo"  />
-   </a>
-  
-  <a href="https://x.com/ganesh_kondaka/">      
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="116" height="55" alt="x logo"  />
-   </a>
-   
-  <a href="https://linkedin.com/in/kondaka-ganesh-b402bb252">      
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="116" height="55" alt="linkedin logo"  />
-   </a>
-</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ganeshkondaka/ganeshkondaka/output/snake.svg" alt="Snake animation" />
+
+###
+<h3>
+Socials :
+X -- <a href="https://x.com/ganesh_kondaka/">Ganesh X </a> 
+Linkedin -- <a href="https://www.linkedin.com/in/kondaka-ganesh-b402bb252/">Ganesh linkedin</a> 
+</h3>
 
 ###
