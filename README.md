@@ -71,11 +71,3 @@
 <br clear="both">
 
 
-###
-<h3>
-Socials : <br />
-X --- <a href="https://x.com/ganesh_kondaka/">X </a> <br />
-Linkedin --- <a href="https://www.linkedin.com/in/kondaka-ganesh-b402bb252/">Linkedin</a> 
-</h3>
-
-###
