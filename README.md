@@ -13,7 +13,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/123860055?v=4"  />
 
 ###
 
