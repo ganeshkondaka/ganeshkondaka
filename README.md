@@ -67,7 +67,7 @@
 
 ###
 
-<a href=#><img src="https://raw.githubusercontent.com/anmolwadhwaxx/anmolwadhwaxx/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
+<a href=#><img src="https://raw.githubusercontent.com/ganeshkondaka/ganeshkondaka/deda191d8faa317e1087ba3e16bee98b6b9b29ea/snake.svg"></a>
 
 ###
 
