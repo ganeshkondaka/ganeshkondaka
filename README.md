@@ -6,6 +6,13 @@
 
 ###
 
+![Animated Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+### About Me
+I'm a passionate software developer who loves exploring new technologies and contributing to open-source projects.
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ganeshkondaka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshkondaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
