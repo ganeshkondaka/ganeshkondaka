@@ -41,9 +41,9 @@ I'm a passionate software developer who loves exploring new technologies and con
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="py" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="anaconda" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="tensorflow" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="py" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40" style="margin-right: 10px;" />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
   <img width="12" />
