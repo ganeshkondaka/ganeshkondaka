@@ -13,8 +13,8 @@ I'm a passionate software developer who loves exploring new technologies and con
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkondaka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+![](https://github-readme-stats.vercel.app/api?username=ganeshkondaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkondaka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshkondaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
