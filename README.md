@@ -6,8 +6,6 @@
 
 ###
 
-![Animated Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ### About Me
 I'm a passionate software developer who loves exploring new technologies and contributing to open-source projects.
 
