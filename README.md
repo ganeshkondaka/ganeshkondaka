@@ -32,8 +32,6 @@ I'm a passionate software developer who loves exploring new technologies and con
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
