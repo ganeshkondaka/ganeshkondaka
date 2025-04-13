@@ -8,6 +8,7 @@
 
 ### About Me
 I'm a passionate software developer who loves exploring new technologies and contributing to open-source projects.
+- I'm also a freelancer, delivering tailored solutions for unique ideas.
 
 ###
 
